@@ -1,2 +1,2 @@
 # ORAO-prototype-board
-ORAO prototype board with edge connector
+ORAO cartridge board with edge connector that allows prototyping 
